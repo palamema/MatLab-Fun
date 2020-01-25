@@ -1,0 +1,685 @@
+# name: A0
+# type: scalar
+27.5
+
+
+# name: A1
+# type: scalar
+55
+
+
+# name: A2
+# type: scalar
+110
+
+
+# name: A3
+# type: scalar
+220
+
+
+# name: A4
+# type: scalar
+440
+
+
+# name: A5
+# type: scalar
+880
+
+
+# name: A6
+# type: scalar
+1760
+
+
+# name: A7
+# type: scalar
+3520
+
+
+# name: Aflat0
+# type: scalar
+25.956250000000001
+
+
+# name: Aflat1
+# type: scalar
+51.912500000000001
+
+
+# name: Aflat2
+# type: scalar
+103.825
+
+
+# name: Aflat3
+# type: scalar
+207.65000000000001
+
+
+# name: Aflat4
+# type: scalar
+415.30000000000001
+
+
+# name: Aflat5
+# type: scalar
+830.60000000000002
+
+
+# name: Aflat6
+# type: scalar
+1661.2
+
+
+# name: Aflat7
+# type: scalar
+3322.4000000000001
+
+
+# name: Asharp0
+# type: scalar
+29.135000000000002
+
+
+# name: Asharp1
+# type: scalar
+58.270000000000003
+
+
+# name: Asharp2
+# type: scalar
+116.54000000000001
+
+
+# name: Asharp3
+# type: scalar
+233.08000000000001
+
+
+# name: Asharp4
+# type: scalar
+466.16000000000003
+
+
+# name: Asharp5
+# type: scalar
+932.32000000000005
+
+
+# name: Asharp6
+# type: scalar
+1864.6400000000001
+
+
+# name: Asharp7
+# type: scalar
+3729.2800000000002
+
+
+# name: B0
+# type: scalar
+30.8675
+
+
+# name: B1
+# type: scalar
+61.734999999999999
+
+
+# name: B2
+# type: scalar
+123.47
+
+
+# name: B3
+# type: scalar
+246.94
+
+
+# name: B4
+# type: scalar
+493.88
+
+
+# name: B5
+# type: scalar
+987.75999999999999
+
+
+# name: B6
+# type: scalar
+1975.52
+
+
+# name: B7
+# type: scalar
+3951.04
+
+
+# name: Bflat0
+# type: scalar
+29.135000000000002
+
+
+# name: Bflat1
+# type: scalar
+58.270000000000003
+
+
+# name: Bflat2
+# type: scalar
+116.54000000000001
+
+
+# name: Bflat3
+# type: scalar
+233.08000000000001
+
+
+# name: Bflat4
+# type: scalar
+466.16000000000003
+
+
+# name: Bflat5
+# type: scalar
+932.32000000000005
+
+
+# name: Bflat6
+# type: scalar
+1864.6400000000001
+
+
+# name: Bflat7
+# type: scalar
+3729.2800000000002
+
+
+# name: C0
+# type: scalar
+16.351875
+
+
+# name: C1
+# type: scalar
+32.703749999999999
+
+
+# name: C2
+# type: scalar
+65.407499999999999
+
+
+# name: C3
+# type: scalar
+130.815
+
+
+# name: C4
+# type: scalar
+261.63
+
+
+# name: C5
+# type: scalar
+523.25999999999999
+
+
+# name: C6
+# type: scalar
+1046.52
+
+
+# name: C7
+# type: scalar
+2093.04
+
+
+# name: C8
+# type: scalar
+4186.0799999999999
+
+
+# name: Csharp0
+# type: scalar
+17.32375
+
+
+# name: Csharp1
+# type: scalar
+34.647500000000001
+
+
+# name: Csharp2
+# type: scalar
+69.295000000000002
+
+
+# name: Csharp3
+# type: scalar
+138.59
+
+
+# name: Csharp4
+# type: scalar
+277.18000000000001
+
+
+# name: Csharp5
+# type: scalar
+554.36000000000001
+
+
+# name: Csharp6
+# type: scalar
+1108.72
+
+
+# name: Csharp7
+# type: scalar
+2217.4400000000001
+
+
+# name: D0
+# type: scalar
+18.353750000000002
+
+
+# name: D1
+# type: scalar
+36.707500000000003
+
+
+# name: D2
+# type: scalar
+73.415000000000006
+
+
+# name: D3
+# type: scalar
+146.83000000000001
+
+
+# name: D4
+# type: scalar
+293.66000000000003
+
+
+# name: D5
+# type: scalar
+587.32000000000005
+
+
+# name: D6
+# type: scalar
+1174.6400000000001
+
+
+# name: D7
+# type: scalar
+2349.2800000000002
+
+
+# name: Dflat0
+# type: scalar
+17.32375
+
+
+# name: Dflat1
+# type: scalar
+34.647500000000001
+
+
+# name: Dflat2
+# type: scalar
+69.295000000000002
+
+
+# name: Dflat3
+# type: scalar
+138.59
+
+
+# name: Dflat4
+# type: scalar
+277.18000000000001
+
+
+# name: Dflat5
+# type: scalar
+554.36000000000001
+
+
+# name: Dflat6
+# type: scalar
+1108.72
+
+
+# name: Dflat7
+# type: scalar
+2217.4400000000001
+
+
+# name: Dsharp0
+# type: scalar
+19.445625
+
+
+# name: Dsharp1
+# type: scalar
+38.891249999999999
+
+
+# name: Dsharp2
+# type: scalar
+77.782499999999999
+
+
+# name: Dsharp3
+# type: scalar
+155.565
+
+
+# name: Dsharp4
+# type: scalar
+311.13
+
+
+# name: Dsharp5
+# type: scalar
+622.25999999999999
+
+
+# name: Dsharp6
+# type: scalar
+1244.52
+
+
+# name: Dsharp7
+# type: scalar
+2489.04
+
+
+# name: E0
+# type: scalar
+20.601875
+
+
+# name: E1
+# type: scalar
+41.203749999999999
+
+
+# name: E2
+# type: scalar
+82.407499999999999
+
+
+# name: E3
+# type: scalar
+164.815
+
+
+# name: E4
+# type: scalar
+329.63
+
+
+# name: E5
+# type: scalar
+659.25999999999999
+
+
+# name: E6
+# type: scalar
+1318.52
+
+
+# name: E7
+# type: scalar
+2637.04
+
+
+# name: Eflat0
+# type: scalar
+19.445625
+
+
+# name: Eflat1
+# type: scalar
+38.891249999999999
+
+
+# name: Eflat2
+# type: scalar
+77.782499999999999
+
+
+# name: Eflat3
+# type: scalar
+155.565
+
+
+# name: Eflat4
+# type: scalar
+311.13
+
+
+# name: Eflat5
+# type: scalar
+622.25999999999999
+
+
+# name: Eflat6
+# type: scalar
+1244.52
+
+
+# name: Eflat7
+# type: scalar
+2489.04
+
+
+# name: F0
+# type: scalar
+21.826875000000001
+
+
+# name: F1
+# type: scalar
+43.653750000000002
+
+
+# name: F2
+# type: scalar
+87.307500000000005
+
+
+# name: F3
+# type: scalar
+174.61500000000001
+
+
+# name: F4
+# type: scalar
+349.23000000000002
+
+
+# name: F5
+# type: scalar
+698.46000000000004
+
+
+# name: F6
+# type: scalar
+1396.9200000000001
+
+
+# name: F7
+# type: scalar
+2793.8400000000001
+
+
+# name: Fsharp0
+# type: scalar
+23.124375000000001
+
+
+# name: Fsharp1
+# type: scalar
+46.248750000000001
+
+
+# name: Fsharp2
+# type: scalar
+92.497500000000002
+
+
+# name: Fsharp3
+# type: scalar
+184.995
+
+
+# name: Fsharp4
+# type: scalar
+369.99000000000001
+
+
+# name: Fsharp5
+# type: scalar
+739.98000000000002
+
+
+# name: Fsharp6
+# type: scalar
+1479.96
+
+
+# name: Fsharp7
+# type: scalar
+2959.9200000000001
+
+
+# name: G0
+# type: scalar
+24.5
+
+
+# name: G1
+# type: scalar
+49
+
+
+# name: G2
+# type: scalar
+98
+
+
+# name: G3
+# type: scalar
+196
+
+
+# name: G4
+# type: scalar
+392
+
+
+# name: G5
+# type: scalar
+784
+
+
+# name: G6
+# type: scalar
+1568
+
+
+# name: G7
+# type: scalar
+3136
+
+
+# name: Gflat0
+# type: scalar
+23.124375000000001
+
+
+# name: Gflat1
+# type: scalar
+46.248750000000001
+
+
+# name: Gflat2
+# type: scalar
+92.497500000000002
+
+
+# name: Gflat3
+# type: scalar
+184.995
+
+
+# name: Gflat4
+# type: scalar
+369.99000000000001
+
+
+# name: Gflat5
+# type: scalar
+739.98000000000002
+
+
+# name: Gflat6
+# type: scalar
+1479.96
+
+
+# name: Gflat7
+# type: scalar
+2959.9200000000001
+
+
+# name: Gsharp0
+# type: scalar
+25.956250000000001
+
+
+# name: Gsharp1
+# type: scalar
+51.912500000000001
+
+
+# name: Gsharp2
+# type: scalar
+103.825
+
+
+# name: Gsharp3
+# type: scalar
+207.65000000000001
+
+
+# name: Gsharp4
+# type: scalar
+415.30000000000001
+
+
+# name: Gsharp5
+# type: scalar
+830.60000000000002
+
+
+# name: Gsharp6
+# type: scalar
+1661.2
+
+
+# name: Gsharp7
+# type: scalar
+3322.4000000000001
+
+
